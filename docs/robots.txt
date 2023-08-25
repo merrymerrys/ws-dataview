@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://merrymerrys.github.io/ws-dataview/sitemap.xml
