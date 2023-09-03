@@ -1,9 +1,8 @@
 export default [
   {
-    text: "Ws DataView",
+    text: "ws-dataview",
     icon: "laptop-code",
     prefix: "book/",
-    link: "dashboard.md",
     children: [
       "dashboard.md",
       "test.md",
